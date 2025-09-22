@@ -1,5 +1,6 @@
-# CNNBootcamp
-Bu projenin temel amacı, **derin öğrenme (deep learning)** kullanarak MRG (Manyetik Rezonans Görüntüleme) beyin taramalarındaki tümörleri otomatik olarak sınıflandıran bir model geliştirmektir. Proje, sadece bir model oluşturup eğitmekle kalmayıp, aynı zamanda bu modelin performansını ve karar verme sürecini kapsamlı bir şekilde analiz etmeyi hedefler.
+# CNNBootcamp MRG Görüntüleri ile Beyin Tümörü Sınıflandırması
+Bu projenin temel amacı, derin öğrenme kullanarak MRG (Manyetik Rezonans Görüntüleme) beyin taramalarındaki tümörleri otomatik olarak sınıflandıran bir model geliştirmektir. Proje, sadece bir model oluşturup eğitmekle kalmıyor, aynı zamanda bu modelin performansını ve karar verme sürecini de kapsamlı bir şekilde analiz etmeyi hedefliyor.
+
 ### Projenin Amaçları ve Detaylı Açıklaması
 
 Bu projenin ana amaçlarını ve her birinin neden önemli olduğunu aşağıda bulabilirsiniz:
