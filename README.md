@@ -97,7 +97,6 @@ Modelin performansını kapsamlı bir şekilde değerlendirmek için hem nicel h
 * **Sınıflandırma Raporu (Classification Report)**: Her bir sınıf için kesinlik (precision), geri çağırma (recall) ve F1-skoru gibi detaylı metrikler sunar.
 * **Grad-CAM Görselleştirmesi**: Modelin tahmin yaparken görüntünün hangi bölgelerine odaklandığını gösteren bir ısı haritası (heatmap) oluşturur. Bu yöntem, modelin karar mekanizmasını şeffaf hale getirerek güvenilirliğini artırır ve tıbbi açıdan mantıklı kararlar alıp almadığını doğrular.
 
----
 
 ### Elde Edilen Sonuçlar ve Analizler
 
@@ -107,7 +106,6 @@ Bu proje, bir yapay zeka modelinin sadece yüksek bir doğruluk değeri elde etm
 
 Model, test seti üzerinde %92.4'lük bir doğruluk oranı elde etmiştir. Bu yüksek başarı oranı, modelin daha önce görmediği beyin MRG görüntülerindeki tümörleri başarılı bir şekilde sınıflandırma yeteneğine sahip olduğunu göstermektedir. Düşük test kaybı (0.22) ise, modelin eğitim verisine aşırı öğrenmediğini ve genelleme yapabildiğini doğrulamaktadır.
 
----
 
 #### 2. Sınıf Bazlı Performans Analizi
 
@@ -118,8 +116,6 @@ Karmaşıklık Matrisi ve Sınıflandırma Raporu, modelin her bir tümör sın�
 * **`pituitary` ve `meningioma` Sınıfları**: Bu tümör tipleri için de oldukça yüksek bir sınıflandırma başarısı elde edilmiştir. Modelin bu tümörlerin belirgin özelliklerini doğru bir şekilde ayırt ettiği gözlemlenmiştir.
 
 * **`glioma` Sınıfı**: `glioma` sınıfı, modelin en çok hata yaptığı alan olmuştur. Bu, `glioma` tümörlerinin değişken şekilleri ve benzer doku yapıları nedeniyle modelin sınıflandırmada zorlandığını göstermektedir. Gelecekte yapılacak çalışmalar, özellikle bu sınıfın tanıma performansını artırmaya odaklanmalıdır.
-
----
 
 #### 3. Öğrenme ve Karar Mekanizması
 
