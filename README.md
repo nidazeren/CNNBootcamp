@@ -125,3 +125,6 @@ Karmaşıklık Matrisi ve Sınıflandırma Raporu, modelin her bir tümör sın�
 * **Grad-CAM Görselleştirmesi**: En önemli sonuçlardan biri, Grad-CAM ile modelin karar verme sürecinin şeffaf hale getirilmesidir. Isı haritaları, modelin bir tahminde bulunurken görüntünün gerçekten tümörlü bölgesine odaklandığını göstermektedir. Bu, modelin sadece yüzeysel özelliklere (örneğin arka plan) güvenmek yerine, tıbbi olarak anlamlı bölgeleri analiz ederek karar verdiğini kanıtlamaktadır. Bu bulgu, modelin güvenilirliğini ve klinik uygulamalarda potansiyelini güçlendirmektedir.
 
 Tüm bu sonuçlar, projenin sadece istatistiksel olarak başarılı olmakla kalmayıp, aynı zamanda elde edilen tahminlerin nedenlerini anlaşılır hale getirdiğini göstermektedir. Bu da, yapay zekanın sağlık gibi kritik alanlarda nasıl güvenle kullanılabileceğine dair önemli bir adımdır.
+
+
+KAGGLE NOTEBOOK LİNK:https://www.kaggle.com/code/nidasebahatzeren/mrg-g-r-nt-leri-ile-beyin-t-m-r-s-n-fland-rma
